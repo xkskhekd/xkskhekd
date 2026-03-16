@@ -7,14 +7,21 @@
 </h3>
 <br>
 
+<!-- <p align="center">
+<img src="https://komarev.com/ghpvc/?username=xkskhekd&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p> -->
+
 ### Current Focus
-Right now I'm exploring energy harvesting with ESP32 microcontrollers and sharpening my machine learning skills through a coding camp.
+- Researching **Energy Harvesting** using ESP32 microcontrollers  
+- Improving **Machine Learning** skills through a coding camp
 
 ### 🛠 Tech Stack & Tools
 
 #### Languages
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/>
@@ -58,15 +65,27 @@ Right now I'm exploring energy harvesting with ESP32 microcontrollers and sharpe
 <img src="https://cdn.simpleicons.org/autocad/E51050" width="35"/>
 </p>
 
-#### Learning & Explore
-- TinyML model deployment on ESP32
-- Energy harvesting systems
-- Edge AI for robotics devices
-- Smart energy monitoring systems
+### Learning & Exploring
+- Multi-source energy harvesting
+- Machine learning to deep learning
+- Embedded systems, IoT, and robotics
+- Renewable energy technologies
 
 <!-- #### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xkskhekd&show_icons=true) -->
 
-#### Contact Me
-- LinkedIn: https://linkedin.com/in/username
-- Email: your@email.com
+### Contact Me
+
+<p>
+<a href="https://www.linkedin.com/in/fathi-annaqi-205a2a222/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:fathiannaqi3@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/xkskhekd">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
