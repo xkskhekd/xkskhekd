@@ -7,12 +7,12 @@
 </h3>
 <br>
 
-#### Current Focus
+### Current Focus
 Right now I'm exploring energy harvesting with ESP32 microcontrollers and sharpening my machine learning skills through a coding camp.
 
-## 🛠 Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
-### Languages
+#### Languages
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -20,13 +20,13 @@ Right now I'm exploring energy harvesting with ESP32 microcontrollers and sharpe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
 
-### Embedded / IoT
+#### Embedded / IoT
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
 </p>
 
-### Machine Learning
+#### Machine Learning
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
@@ -35,7 +35,7 @@ Right now I'm exploring energy harvesting with ESP32 microcontrollers and sharpe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
 </p>
 
-### Frameworks & Libraries
+#### Frameworks & Libraries
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
@@ -43,18 +43,19 @@ Right now I'm exploring energy harvesting with ESP32 microcontrollers and sharpe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
 </p>
 
-### Development Tools
+#### Development Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/>
-<img src="https://cdn.simpleicons.org/vuforia/white" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
 </p>
 
-### Design
+#### Design
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/autocad/E51050" width="40"/>
 </p>
 
 #### Learning & Explore
